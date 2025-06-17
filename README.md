@@ -57,20 +57,20 @@
 
 ## B Enumerated Endings for Each Stage in Phase I
 1. Stage One
-   - *Ending 1.1*
-     Tone: teasing, lighthearted, and friendly
+   - *Ending 1.1*<br>
+     Tone: teasing, lighthearted, and friendly<br>
      Daiyu (covering her mouth with a smile): Though you’re a bit mad, your words are quite amusing. Well then, why don’t you keep talking about your people and things for a while? Consider it a little entertainment for me, if you don’t mind.
-   - *Ending 1.2*
-     Tone: nervous, cautious, reserved (referencing how Daiyu behaves upon entering the Jia Household)
+   - *Ending 1.2*<br>
+     Tone: nervous, cautious, reserved (referencing how Daiyu behaves upon entering the Jia Household)<br>
      Daiyu (calmly, with a hint of unease): What you’re saying is quite new to me. I’ll keep it in mind; that’s all.
-   - *Ending 1.3*
-     Tone: a little bit irritated (if the player triggers the word "character"). (In the Qing Dynasty, actors held a low status, and in one chapter of the book, when Lin Daiyu is told that an actor resembles her, she immediately turns hostile.)
+   - *Ending 1.3*<br>
+     Tone: a little bit irritated (if the player triggers the word "character"). (In the Qing Dynasty, actors held a low status, and in one chapter of the book, when Lin Daiyu is told that an actor resembles her, she immediately turns hostile.)<br>
      Daiyu (frowning): When you say “character,” do you mean like a lowly stage actor? And what exactly are you? Hiding under the lake, yet you dare mock me?
-   - *Ending 1.4*
-     Tone: thoughtful, rhetorical, and questioning
+   - *Ending 1.4*<br>
+     Tone: thoughtful, rhetorical, and questioning<br>
      Daiyu (insisting): No matter how much you jest, all you can do is send your messages through this lake. I dare say, the world I belong to is the real one, while yours, on the other hand, seems the false one!
-   - *Ending 1.5*
-     Tone: Losing interest (Game over)
+   - *Ending 1.5*<br>
+     Tone: Losing interest (Game over)<br>
      Daiyu (politely): I’m sorry, but I really don’t follow what you’re saying. It’s getting late, and I should be on my way.
 2. Stage Two
 4. Stage Three
