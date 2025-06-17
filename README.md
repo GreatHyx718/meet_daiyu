@@ -118,16 +118,16 @@
      Tone: Reluctant to part, already considering the player a close friend (if intimacy level is at its highest)<br>
      Daiyu (wiping her tears again, her voice soft and emotional): Am I crying again? How embarrassing... (She pauses, then smiles faintly.) Well, I was thinking, if we existed in the same time and place, perhaps we could have become kindred spirits. After this farewell, I don’t know when we’ll meet again—since I came here empty-handed, let me pluck a flower as a token of remembrance.<br>
      *A small glowing dot appears on the screen, with a lotus petal at its center. When the player taps it, the screen displays: “Unlocked Ending [Withered Lotus Remains]”* <br>
-     Daiyu (with a gentle smile): “The autumn gloom lingers, frost descends late; the withered lotus remains to listen to the sound of rain.” I must go now. Until we meet again, if fate allows.
+     Daiyu (with a gentle smile): “The autumn gloom lingers, frost descends late; the withered lotus remains to listen to the sound of rain. I must go now. Until we meet again, if fate allows.”
 
    - *Ending 4.3*<br>
      Tone: Positive, hopeful to change the plot’s direction (if the player triggers keywords related to "changing the plot")<br>
      Daiyu (smiling): No matter what, thank you for showing me this possibility. I hope that someday, when you open the novel Dream of the Red Chamber, you’ll discover a different ending.<br>
-     The screen displays: “Unlocked Ending [Resolution to Change]”
+     The screen displays: *“Unlocked Ending [Resolution to Change]”*
 
    - *Ending 4.4*<br>
      Tone: Skeptical, resilient, rational, and eloquent<br>
      Daiyu (with a sigh): Long ago, Zhuang Zhou dreamed of being a butterfly, wondering, “Was it Zhuang Zhou who dreamed of the butterfly, or the butterfly who dreamed of Zhuang Zhou?” Now, in my dream, I see your messages, and I no longer know what is real and what is an illusion—But how can you be sure that you are not trapped within a history book or a play? Could I, in my world, find records of you?<br>
-     Screen displays: “Unlocked Ending [Life as a Play]”<br>
+     Screen displays: *“Unlocked Ending [Life as a Play]”* <br>
      Daiyu (with a mischievous smile): Don’t take it to heart—I’m only teasing you...
    
