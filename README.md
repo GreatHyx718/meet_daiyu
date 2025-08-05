@@ -55,7 +55,7 @@
 1. Is there anything else you would like to share about your thoughts on using LLMs to reinterpret a classic novel, such as HLM?
 
 
-## B Enumerated Endings for Each Stage in Phase I
+## B Enumerated Endings for Each Stage
 1. Stage One
    - *Ending 1.1*<br>
      Tone: teasing, lighthearted, and friendly<br>
